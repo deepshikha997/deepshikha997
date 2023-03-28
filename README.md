@@ -35,8 +35,12 @@
 <br />
  
 <details>
+ 
  <summary>:zap: GitHub Stats</summary>
- <img align="left" alt="Deepshikha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deepshikha997&show_icons=true&hide_border=true" /></details>
+ 
+ <img align="left" alt="Deepshikha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deepshikha997&show_icons=true&hide_border=true" />
+ 
+ </details>
  
  
 <!--  <summary>:zap: Most Used Languages</summary>
@@ -44,8 +48,11 @@
 
  
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepshikha&layout=compact)](https://github.com/deepshikha997/github-readme-stats) -->
- ### Github Streaks
+
+### Github Streaks
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepshikha997&" alt="deepshikha997" /></p>
+</br>
 <!---
 deepshikha997/deepshikha997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
