@@ -1,5 +1,5 @@
 <h2> Hello, I’m Deepshikha 👋<img src="https://github.com/deepshikha997/deepshikha997/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://github.com/deepshikha997/deepshikha997/blob/main/code.gif" width="500"height="320" />
+<img align="right" alt="GIF" src="https://github.com/deepshikha997/deepshikha997/blob/main/code.gif" width="400"height="320" />
 
 <h3> 👨🏻‍💻 About Me </h3>
 
