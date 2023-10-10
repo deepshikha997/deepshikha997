@@ -11,7 +11,7 @@
 - 👀 I’m interested in  **Python,React,C++,Android**
 - 🌱 I’m currently learning **React and DSA**
 - 💞️ I Sometimes do Open Source Contribution Projects
-- 📫 How to reach me - deepshikhabisht208@gmail.com
+- 📫 How to reach me - deepshikhagb12@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
