@@ -7,8 +7,8 @@
 
 - ✍ You can find my projects here.
 - 💻Completed my Masters Of Computer Application'22 (MCA)
-- 👯 I’m looking for interships opportunities on **front-end development**
-- 👀 I’m interested in  **Python,React,C++,Android**
+- 👯 I’m looking for opportunities in **front-end development/backend development/full-stack**
+- 👀 I’m interested in  **ReactJs, HTML, CSS, Javascript, MySQL, MongoDb, NodeJs,Express, TailwindCSS**
 - 🌱 I’m currently learning **React and DSA**
 - 💞️ I Sometimes do Open Source Contribution Projects
 - 📫 How to reach me - deepshikhagb12@gmail.com
@@ -33,6 +33,12 @@
 
 <br />
 <br />
+
+ <h3 align="left">Database</h3>
+ <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+ 
+<br/>
+<br/>
  
 <details>
  
@@ -41,8 +47,7 @@
  <img align="left" alt="Deepshikha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deepshikha997&show_icons=true&hide_border=true" />
  
  </details>
- 
- 
+
 <!--  <summary>:zap: Most Used Languages</summary>
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Deepshikha&show_icons=true&locale=en&layout=compact" alt="Deepshikha997" /></p> -->
 
