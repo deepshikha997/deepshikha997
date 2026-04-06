@@ -9,7 +9,7 @@
 - 💻Completed my Masters Of Computer Application'22 (MCA)
 - 👯 I’m looking for opportunities in **front-end development/backend development/full-stack**
 - 👀 I’m interested in  **ReactJs, HTML, CSS, Javascript, MySQL, MongoDb, NodeJs,Express, TailwindCSS**
-- 🌱 I’m currently learning **React and DSA**
+- 🌱 I’m currently learning **=DSA**
 - 💞️ I Sometimes do Open Source Contribution Projects
 - 📫 How to reach me - deepshikhagb12@gmail.com
 
